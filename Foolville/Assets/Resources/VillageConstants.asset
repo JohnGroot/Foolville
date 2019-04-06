@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c3328f922f1e546bbbc6664712645a, type: 3}
+  m_Name: VillageConstants
+  m_EditorClassIdentifier: 
+  InitVillagerSpawnCount: 0
+  CottageBuildTime: 1
+  CottageBuildCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+    - serializedVersion: 2
+      time: 0.864591
+      value: 0.5339227
+      inSlope: 2.084059
+      outSlope: 2.084059
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 1
+      inSlope: 3.0649614
+      outSlope: 3.0649614
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  CottageScaleRange: {x: 0, y: 0.05}
+  CottageYPosRange: {x: 0, y: 0.075}
+  VillagerSpawnTimeRange: {x: 0.15, y: 0.5}
+  CottageMinSeparation: 0.1
+  VillagerBirthRateRange: {x: 1, y: 60}
+  BirthRateCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: -0.008333334
+      value: 0
+      inSlope: 3.9545448
+      outSlope: 3.9545448
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.9916667
+      value: 0.9875
+      inSlope: 0.3586961
+      outSlope: 0.3586961
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  MaxVillagersSpawned: 5
+  MaxPlantsSpawned: 1
+  PathDistanceRange: {x: 0.05, y: 5}
+  MoveSpeedRange: {x: 0.04, y: 0.075}
+  RemainingDistanceStop: 0.005
+  WalkingStateOdds: 0.25
+  ThinkingStateOdds: 1.5
+  ThinkingTimeRange: {x: 1, y: 5}
+  BuildPosOffset: 0.005
+  HelloTimer: 0.05
+  BurnTimer: 2
+  BurnStartTimer: 0.5
+  BurnDissolveTimer: 1
+  IdleTalkRange: {x: 1, y: 7}
+  PigIdleReturnTime: 0.75

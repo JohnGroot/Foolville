@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df85e6628d9c1d478e23f6cdefbb1b8, type: 3}
+  m_Name: FoolTextureCollection
+  m_EditorClassIdentifier: Assembly-CSharp::FoolTextureCollection
+  FoolTextureArray:
+  - _foolName: Aaron
+    IdleTexture: {fileID: 2800000, guid: c2a80d8e254b2e6419affc184ce52f41, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 6eac253a2d1dc7748a9642a4a0bc5ccf, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 871bdd3c550889946b0baa00ce5030fc,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: e5d351f99abe89f43a8629a25b29a8f6,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 60713d9e2e0b0414ea9ecdee3d986df3, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 32a77039aa36fb94f9bc1c42749fd6de,
+      type: 3}
+  - _foolName: Bruce
+    IdleTexture: {fileID: 2800000, guid: b22e0813ab2330f46a73043a8a2d2b8c, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 98bd4df7f6fe6674c9c622890d1ec9c6, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: f3996766e91eed144b49d9a54e3fb3ce,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 11a0a891a732fb64db5c8a5378e39901,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: a28bfab7cc65dcb4384560d52d8cb210, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 4dcc67a1b406ac542a6e8ee18ea5ca19,
+      type: 3}
+  - _foolName: Butch
+    IdleTexture: {fileID: 2800000, guid: b22e0813ab2330f46a73043a8a2d2b8c, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 98bd4df7f6fe6674c9c622890d1ec9c6, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: f3996766e91eed144b49d9a54e3fb3ce,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 11a0a891a732fb64db5c8a5378e39901,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: a28bfab7cc65dcb4384560d52d8cb210, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 4dcc67a1b406ac542a6e8ee18ea5ca19,
+      type: 3}
+  - _foolName: Chase
+    IdleTexture: {fileID: 2800000, guid: 60155709ddb90ce48a7a7ad8768445e6, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 63e7264fba4896445a3c3d21fdd4e059, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 5b7a1fd4eae1fcd4bba8888411a95410,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 1a9f0e9062958d64eb0c09d70b70e57a,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 4f43de95e8082874b8926c003d26b0fb, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 99cf210583a3d7045a2cff608d72902d,
+      type: 3}
+  - _foolName: Donald
+    IdleTexture: {fileID: 2800000, guid: 90911f09148c3204a907d5c59d86d252, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 114ce8ca40a691c4e8d69b9958fc19a8, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: dfcf383e688ba83409be4a6dc791f6fa,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: b878c3d49b575364e8e4483b4004c112,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 693515f9d412f8e4a95aad3c6e58ac3f, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 65de8d7a8e23f5c4fae6f27cf4db4bc1,
+      type: 3}
+  - _foolName: Groot
+    IdleTexture: {fileID: 2800000, guid: c7e677da68c75f84681fbc27b5ccba96, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 6f4b08de9ab4e13438b944b16a36ac1f, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: adea4a2690ba14d4699c9f36436aa24d,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 5e452b1d80076a24cbb12538c905ffca,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: dd7f24c532ac7f94c87d5283841564ce, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: d83072be69ac8b042bc0400cf91a29a3,
+      type: 3}
+  - _foolName: Gus
+    IdleTexture: {fileID: 2800000, guid: a8832f0d40f5226458e87f88271ef66e, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 18a67ca047096ef4396eec6496d10091, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: ca5d4fd99fa469a45a7ab045b0582832,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: abc76c4789de2ba47af1affb5591674e,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: e0e58d5af53cb0b49b0fb0d0deaf15ce, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 1bae996d50da1b44caf4f79a8b095126,
+      type: 3}
+  - _foolName: Gustavo
+    IdleTexture: {fileID: 2800000, guid: d0dd7561c06fce243aac48691508c420, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 73923e0459435434892c4bed962557ce, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: ecd92f50849050f45a77964cfb8e1808,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 7693eea1697965a478cb3104bcd03e51,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 0021a00e4dae16844b84b9ec64ea4ded, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 4d637ac9d0ba8e24e882986514cba5b1,
+      type: 3}
+  - _foolName: Jackson
+    IdleTexture: {fileID: 2800000, guid: d0dd7561c06fce243aac48691508c420, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 73923e0459435434892c4bed962557ce, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: ecd92f50849050f45a77964cfb8e1808,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 7693eea1697965a478cb3104bcd03e51,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 0021a00e4dae16844b84b9ec64ea4ded, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 4d637ac9d0ba8e24e882986514cba5b1,
+      type: 3}
+  - _foolName: Jimmy
+    IdleTexture: {fileID: 2800000, guid: a57debaf509593245a4be923e099e3d6, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 54ce783bfaddcf14e89047709e6c26cc, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 9cc704e0c215bd44ea10edc045dff738,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 5a918fc7f1c207042b72a2711ff89f9c,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 99874d8c6f4bbeb42bd43c1134f8a0cf, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 6e8975c7f755d484ebe70521859814f4,
+      type: 3}
+  - _foolName: Juan
+    IdleTexture: {fileID: 2800000, guid: 9c5e6c332af18e149b7ddbfff3a9cfec, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 97ee913e87673854b8594594814ba178, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 195cd75159224b64fadad8c67a7a0fa0,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 99b983529a5d34042a4676fa2811475a,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: d18b0cb023c7c7f42ac07f73fed08406, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: ae5d4f3653a08524ea90e10fd02241df,
+      type: 3}
+  - _foolName: Lee
+    IdleTexture: {fileID: 2800000, guid: 9d37888c65b892c47979ff8e6894f6a8, type: 3}
+    WalkTexture: {fileID: 2800000, guid: cdaa6ce1776df5b4b9fb4759ebe2aed7, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: eeaf20069eed317489ed29102ffbd41b,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 1123fd9236112b041af4d1ff5c26d750,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 83986dd376446a04f9a0d94596d46099, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 8928487da0b9cd4469dd3f5462c9f0cc,
+      type: 3}
+  - _foolName: Maurice
+    IdleTexture: {fileID: 2800000, guid: 64377f74f87dd0d44b11c167d06297c1, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 72c0c0fe2f870544bad3b76c7cf2fc8c, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 7ea48d8e23751414491a3cc1dd481e3b,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 0e2788dd36102fd4bbfb493b7dd041c5,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 253633781bff74141bc525e8462c118c, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 4880a3606ebe8804b89e4e17a98caaa5,
+      type: 3}
+  - _foolName: Ortega
+    IdleTexture: {fileID: 2800000, guid: 0c7f046f90772e84a905222f0cfe3b1c, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 8865d7760c66a754f97bd7c5fbb1bd53, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 18eb12e40fb26224295cab997045da99,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: e7828e1bc2d51ca40b40eae00c26642c,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 239343a51aec05749837ed28addd3d81, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: e3f935e02f15e7b4ebb93510ef56124d,
+      type: 3}
+  - _foolName: Pablo
+    IdleTexture: {fileID: 2800000, guid: 6f3308195da7aeb41998241c724dccd0, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 5d435c93b5cd7dc4e998cba738ed52e0, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: eed072b0f9878424596b4a0b2c00caec,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 099b806c8cc70b647822e9b04bc5dbfc,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 31fdccd2561e53b4597a76d127dbccec, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: e8d45e3ac12f15c45b697ee557fad87e,
+      type: 3}
+  - _foolName: Shinguru
+    IdleTexture: {fileID: 2800000, guid: 271d01bbae16b7b479073912380e1bb4, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 4ef565d6ccbf73846a35e6268e45aa3b, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 6fc297e622a77ea488cd2b88e9dc95e2,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 9147601083f30694f826a5c9910914ac,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: a9a73497de9ca604ba62f61e73fe4baf, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 54456a4a67bc445468e6f9b473ead69b,
+      type: 3}
+  - _foolName: Sora
+    IdleTexture: {fileID: 2800000, guid: cb3dce5847a268e42858e535737268fb, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 9a7ac77359d243042a813b2500188842, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: e5eb11c31f35c51498884b4f6d218048,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: bc0ea125ac1ca7849b45965432638474,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 3256a441797edd942961b3faf3e0b287, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 5a503c91770453549b7421f3b3b64cf1,
+      type: 3}
+  - _foolName: Sparky
+    IdleTexture: {fileID: 2800000, guid: c83ac2ee387e37545b77f2a366a914b0, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 41aca187799754643b06bc4dccbb5b4e, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 6ab8fb4248710e9409fb79c740171d74,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: ad9ed60f82a882a4f9bbb8be448990cc,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: c960a2889bbe4c24c8994048450f6ef6, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: e49389e5b216d3943a8756692b12b279,
+      type: 3}
+  - _foolName: Tanaa
+    IdleTexture: {fileID: 2800000, guid: 08ca59fbf7c909449a9b6fb8988506aa, type: 3}
+    WalkTexture: {fileID: 2800000, guid: b4f57200069c8be489094136882e310a, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: a62210c65f318ee41bf7cc759aacb5e3,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: f9fcaa9cb421c4f40af1d5b4f713246a,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: f4a158ce88a3aa04abd8328e62660954, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: 0871a712aa725eb48a2c62fd162745c7,
+      type: 3}
+  - _foolName: Tom
+    IdleTexture: {fileID: 2800000, guid: 1c3b1cdc7af96024eae360cb1aa502af, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 24325f70cb5a8a244bebfbd1c146e07e, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 817c64054ae787a4eb3896bac9b2e23e,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 3481f7de1acd0cf49a98f0f2084cabfa,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 962748ed67c35384facf5b77163bc2ee, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: f3b3a22e8efe1a449822f874f022d538,
+      type: 3}
+  - _foolName: Tommy
+    IdleTexture: {fileID: 2800000, guid: 1d13b08b29e12b148bb69f5140f37174, type: 3}
+    WalkTexture: {fileID: 2800000, guid: 894eb4acb42ff6d4fb7b7d2ddc49d6e5, type: 3}
+    FirstCryingTexture: {fileID: 2800000, guid: 29a5545dda8db41468621a14da5af2a9,
+      type: 3}
+    SecondCryingTexture: {fileID: 2800000, guid: 116070c19dd91c0438010cfe0764535c,
+      type: 3}
+    FirstDanceTexture: {fileID: 2800000, guid: 4d542e43f32281147bb45df369461f7b, type: 3}
+    SecondDanceTexture: {fileID: 2800000, guid: cd1faadde64ea324e919f8f5672081b9,
+      type: 3}
+  FoolBurnTextures:
+  - {fileID: 2800000, guid: 3e28f3d9ace81c844b798911931dd21b, type: 3}
+  - {fileID: 2800000, guid: 3fd73218b2b253341a729d5818c79aee, type: 3}
+  FoolCharred: {fileID: 2800000, guid: 6f6f25bfa3f0b144cb8d101bc936cc4c, type: 3}
+  PigWalkTextures:
+  - {fileID: 2800000, guid: 2c6cc97814a28574db5b505e24f963e3, type: 3}
+  - {fileID: 2800000, guid: 544356adf2966b4469fce80a26dd14a3, type: 3}
+  - {fileID: 2800000, guid: 3d65743d46e4e214d96b3926f4f6ce47, type: 3}
+  - {fileID: 2800000, guid: 006d4ce315aec28408e3c95a2deafaa8, type: 3}
+  PigBurnTextures:
+  - {fileID: 2800000, guid: 5b3c5daadbc09be4f928dd215ca43935, type: 3}
+  - {fileID: 2800000, guid: 3f0654ab4dd003e49a820bf71bdad56f, type: 3}
+  - {fileID: 2800000, guid: 02f5b441531932c4bb6e800196ad06cc, type: 3}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e87f2cd825c5e4b83998d75361c0a1, type: 3}
+  m_Name: PlantDataCollection
+  m_EditorClassIdentifier: 
+  PlantDataArray:
+  - _plantName: Tree
+    _plantTexture: {fileID: 2800000, guid: 2c55f59b2d90c6e4ca01e1a3045baf0a, type: 3}
+    _plantScaleXRange: {x: 0.075, y: 0.1}
+    _plantScaleYRange: {x: 0.075, y: 0.1}
+    _growSpeed: 3
+    _plantYPosition: 0.085
+  - _plantName: Small Bush
+    _plantTexture: {fileID: 2800000, guid: 6709762a0b3d7344f8c87105b64e38dd, type: 3}
+    _plantScaleXRange: {x: 0.025, y: 0.04}
+    _plantScaleYRange: {x: 0.015, y: 0.025}
+    _growSpeed: 0.5
+    _plantYPosition: 0.0625
+  - _plantName: Medium Bush
+    _plantTexture: {fileID: 2800000, guid: 56463059d75479246b5c3b481f0e333a, type: 3}
+    _plantScaleXRange: {x: 0.025, y: 0.04}
+    _plantScaleYRange: {x: 0.015, y: 0.025}
+    _growSpeed: 0.5
+    _plantYPosition: 0.0625
+  - _plantName: Large Bush
+    _plantTexture: {fileID: 2800000, guid: 44538f545898bb745bbd16430080c4cf, type: 3}
+    _plantScaleXRange: {x: 0.025, y: 0.04}
+    _plantScaleYRange: {x: 0.015, y: 0.025}
+    _growSpeed: 0.5
+    _plantYPosition: 0.0625

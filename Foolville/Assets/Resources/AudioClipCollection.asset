@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c4e0b85169ed774e98968c0db5095e2, type: 3}
+  m_Name: AudioClipCollection
+  m_EditorClassIdentifier: 
+  FoolTalkClipArray:
+  - {fileID: 8300000, guid: 58a56db8bb3613747b99f18f18f194af, type: 3}
+  - {fileID: 8300000, guid: 0ec86368e740e3141ae9d7d76505ff65, type: 3}
+  - {fileID: 8300000, guid: 03cc015325e8fb346a6517d6c315d22a, type: 3}
+  - {fileID: 8300000, guid: 830f6ac036503214b83240c4bc1cbf2a, type: 3}
+  - {fileID: 8300000, guid: e3975405541686f41b1526fc01c0677a, type: 3}
+  - {fileID: 8300000, guid: 240f7f1c383d90d44810080f24778ce1, type: 3}
+  - {fileID: 8300000, guid: 1bd3b19b0656f7a4b989a0c5cc5b2da8, type: 3}
+  - {fileID: 8300000, guid: ca581feb8bc0cbd41bbf02ca25beb81b, type: 3}
+  - {fileID: 8300000, guid: 0a723e42d97819247a614444da709711, type: 3}
+  FoolDeathPop: {fileID: 8300000, guid: 98e5514603aae8546aa88b8c08671f23, type: 3}
+  FoolSpawnPop: {fileID: 8300000, guid: 2d76d9957d176ab4db028c0481fca98b, type: 3}
